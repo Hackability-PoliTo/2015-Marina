@@ -1,4 +1,4 @@
-#\sMarti
+# sMarti
 
 ![project](img/main.jpg)
 
@@ -7,7 +7,8 @@ in parte l'uso del bracccio destro, in modo che la bambina possa muoverlo in aut
 Abbiamo quindi costruito un supporto in acciaio e alluminio, agganciabile alla carrozzina,dotato di molle e cuscinetti, 
 che sostituisca il lavoro isomentrico della spalla e la aiuti nella flesso-estensione dell'avambraccio.
 
-#Team
+# Team
+
 ![team](img/team.jpg)
 
 - Luca Rabezzana [facebook](https://www.facebook.com/luca.rabezzana.1)
